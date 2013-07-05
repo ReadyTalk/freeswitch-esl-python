@@ -11,7 +11,6 @@ Use the ['Git' support for pip](http://www.pip-installer.org/en/latest/requireme
 
 1. Add this to your requirements.txt
     - git+git://github.com:gurteshwar/freeswitch-esl-python.git 
-
 2. Run pip install -r requrements.txt
 
 or
